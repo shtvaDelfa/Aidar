@@ -1,0 +1,17 @@
+body{
+    background-color: bisque;
+    height: 100vh;
+    background: url(image2.jpg) no-repeat center/cover;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card {
+    text-align: center;
+}
+button{
+background: linear-gradient(45deg, rgba(131, 58, 180, 1) 0%, rgba(243, 29, 253, 1) 0%, rgba(247, 69, 252, 1) 70%);
+ border-radius: 15px;
+ box-shadow: 10px 10px 10px gray;
+ border: none;
+}
